@@ -38,10 +38,10 @@
 </div>
 <br>
 <div align=center>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJae-yi%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJae-yi%2Fhit-		counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 <br>
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Thank%20you%20for%20visiting!&fontSize=50&animation=fadeIn" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Thank%20you%20for%20visiting!&fontSize=50&animation=fadeIn" />
 </div>
 </div>
